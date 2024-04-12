@@ -9,7 +9,9 @@ Skills: REACT / JS / HTML / CSS / UX / UI DESIGN
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning REACT 
 - 📫 How to reach me: jamel144@live.co.uk 
-- ⚡ Fun fact: I've appeared on TV on a few occasions  
+- ⚡ Fun fact: I've appeared on TV on a few occasions
+
+  <img src="https://raw.githubusercontent.com/Jamel144/Jamel144/066d90c61626083ca4249d7e0e00b1fe926d95bd/Images/Vina%20mock%20ups.svg" alt="websitemockup" width ="400" height= "400" href="https://jamel144.github.io/VinaKitchen/"> 
 
 ## Connect with me!
 
